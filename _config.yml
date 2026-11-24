@@ -1,0 +1,6 @@
+title: Jekyll
+baseurl: ""
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
